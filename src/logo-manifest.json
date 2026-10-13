@@ -1,0 +1,57 @@
+{
+  "https://hytalent.in/wp-content/uploads/2023/11/HP.png": {
+    "src": "/logos/hp.svg",
+    "width": 420,
+    "height": 534
+  },
+  "https://hytalent.in/wp-content/uploads/2023/11/HPCL.png": {
+    "src": "/logos/hpcl.svg",
+    "width": 420,
+    "height": 398
+  },
+  "https://hytalent.in/wp-content/uploads/2023/11/Vizag_Steel.png": {
+    "src": "/logos/vizag_steel.svg",
+    "width": 420,
+    "height": 573
+  },
+  "https://hytalent.in/wp-content/uploads/2023/11/fairfield.png": {
+    "src": "/logos/fairfield.svg",
+    "width": 420,
+    "height": 420
+  },
+  "https://hytalent.in/wp-content/uploads/2023/11/symbiosys.png": {
+    "src": "/logos/symbiosys.svg",
+    "width": 420,
+    "height": 238
+  },
+  "https://hytalent.in/wp-content/uploads/2023/11/Sails-300x127.png": {
+    "src": "/logos/sails.svg",
+    "width": 420,
+    "height": 178
+  },
+  "https://hytalent.in/wp-content/uploads/2023/11/alwardasgroup-300x162.png": {
+    "src": "/logos/alwardasgroup.svg",
+    "width": 420,
+    "height": 226
+  },
+  "https://hytalent.in/wp-content/uploads/2023/11/samata.jpeg": {
+    "src": "/logos/samata.svg",
+    "width": 420,
+    "height": 513
+  },
+  "https://hytalent.in/wp-content/uploads/2023/11/sankarfoundation.png": {
+    "src": "/logos/sankarfoundation.svg",
+    "width": 420,
+    "height": 393
+  },
+  "https://hytalent.in/wp-content/uploads/2023/11/starlite.png": {
+    "src": "/logos/starlite.svg",
+    "width": 420,
+    "height": 422
+  },
+  "https://hytalent.in/wp-content/uploads/2023/11/padmasriivf-300x300.jpg": {
+    "src": "/logos/padmasriivf.svg",
+    "width": 420,
+    "height": 420
+  }
+}

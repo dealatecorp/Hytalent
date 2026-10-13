@@ -1,0 +1,515 @@
+{
+  "https://hytalent.in/wp-content/uploads/2021/09/unnamed-5.jpg": {
+    "src": "/media/7c376e6bc6960128-original.jpg",
+    "srcSet": "/media/7c376e6bc6960128-640.webp 640w, /media/7c376e6bc6960128-original.jpg 750w",
+    "width": 750,
+    "height": 500,
+    "source": "https://hytalent.in/wp-content/uploads/2021/09/unnamed-5.jpg",
+    "capturedWidth": 750,
+    "capturedHeight": 500
+  },
+  "https://hytalent.in/wp-content/uploads/2023/11/Capacity-Building.jpg": {
+    "src": "/media/ff46acae7144e372-original.jpg",
+    "srcSet": "/media/ff46acae7144e372-640.webp 640w, /media/ff46acae7144e372-original.jpg 1024w",
+    "width": 1024,
+    "height": 683,
+    "source": "https://hytalent.in/wp-content/uploads/2023/11/Capacity-Building.jpg",
+    "capturedWidth": 1024,
+    "capturedHeight": 683
+  },
+  "https://hytalent.in/wp-content/uploads/2023/11/Campus-Corporate.jpg": {
+    "src": "/media/5c1c3c13b1233553-original.jpg",
+    "srcSet": "/media/5c1c3c13b1233553-640.webp 640w, /media/5c1c3c13b1233553-original.jpg 1024w",
+    "width": 1024,
+    "height": 683,
+    "source": "https://hytalent.in/wp-content/uploads/2023/11/Campus-Corporate.jpg",
+    "capturedWidth": 1024,
+    "capturedHeight": 683
+  },
+  "https://hytalent.in/wp-content/uploads/2021/12/audit-g36eafc22d_640.jpg": {
+    "src": "/media/31c7394a4c328911-original.jpg",
+    "srcSet": "/media/31c7394a4c328911-original.jpg 640w",
+    "width": 640,
+    "height": 423,
+    "source": "https://hytalent.in/wp-content/uploads/2021/12/audit-g36eafc22d_640.jpg",
+    "capturedWidth": 640,
+    "capturedHeight": 423
+  },
+  "https://hytalent.in/wp-content/uploads/2023/11/POSH.jpg": {
+    "src": "/media/fa107d812eab81ef-original.jpg",
+    "srcSet": "/media/fa107d812eab81ef-640.webp 640w, /media/fa107d812eab81ef-original.jpg 1024w",
+    "width": 1024,
+    "height": 819,
+    "source": "https://hytalent.in/wp-content/uploads/2023/11/POSH.jpg",
+    "capturedWidth": 1024,
+    "capturedHeight": 819
+  },
+  "https://hytalent.in/wp-content/uploads/2021/12/coaching-hy.jpeg": {
+    "src": "/media/a76343bd45396fb3-original.jpeg",
+    "srcSet": "/media/a76343bd45396fb3-original.jpeg 500w",
+    "width": 500,
+    "height": 334,
+    "source": "https://hytalent.in/wp-content/uploads/2021/12/coaching-hy.jpeg",
+    "capturedWidth": 500,
+    "capturedHeight": 334
+  },
+  "https://hytalent.in/wp-content/uploads/2021/12/fdp.jpeg": {
+    "src": "/media/31ea77b8205c73ce-original.jpeg",
+    "srcSet": "/media/31ea77b8205c73ce-original.jpeg 500w",
+    "width": 500,
+    "height": 334,
+    "source": "https://hytalent.in/wp-content/uploads/2021/12/fdp.jpeg",
+    "capturedWidth": 500,
+    "capturedHeight": 334
+  },
+  "https://hytalent.in/wp-content/uploads/2023/11/Onboard-Training.jpg": {
+    "src": "/media/f2420803a4946745-original.jpg",
+    "srcSet": "/media/f2420803a4946745-640.webp 640w, /media/f2420803a4946745-original.jpg 1024w",
+    "width": 1024,
+    "height": 684,
+    "source": "https://hytalent.in/wp-content/uploads/2023/11/Onboard-Training.jpg",
+    "capturedWidth": 1024,
+    "capturedHeight": 684
+  },
+  "https://hytalent.in/wp-content/uploads/2023/11/HR-Policies.jpg": {
+    "src": "/media/a2c075e1d9d8cfb1-original.jpg",
+    "srcSet": "/media/a2c075e1d9d8cfb1-640.webp 640w, /media/a2c075e1d9d8cfb1-original.jpg 1024w",
+    "width": 1024,
+    "height": 683,
+    "source": "https://hytalent.in/wp-content/uploads/2023/11/HR-Policies.jpg",
+    "capturedWidth": 1024,
+    "capturedHeight": 683
+  },
+  "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0010-272x182.jpg": {
+    "src": "/media/e7619bf285647865-original.jpg",
+    "srcSet": "/media/e7619bf285647865-640.webp 640w, /media/e7619bf285647865-original.jpg 1024w",
+    "width": 1024,
+    "height": 461,
+    "source": "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0010.jpg",
+    "capturedWidth": 272,
+    "capturedHeight": 182
+  },
+  "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0009-272x182.jpg": {
+    "src": "/media/af164f5506729f0c-original.jpg",
+    "srcSet": "/media/af164f5506729f0c-640.webp 640w, /media/af164f5506729f0c-original.jpg 1024w",
+    "width": 1024,
+    "height": 768,
+    "source": "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0009.jpg",
+    "capturedWidth": 272,
+    "capturedHeight": 182
+  },
+  "https://hytalent.in/wp-content/uploads/2021/12/work-life-balance-hy-1024x574.jpeg": {
+    "src": "/media/731857d637fb5b9c-original.jpeg",
+    "srcSet": "/media/731857d637fb5b9c-640.webp 640w, /media/731857d637fb5b9c-original.jpeg 1034w",
+    "width": 1034,
+    "height": 580,
+    "source": "https://hytalent.in/wp-content/uploads/2021/12/work-life-balance-hy.jpeg",
+    "capturedWidth": 1024,
+    "capturedHeight": 574
+  },
+  "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0013-272x182.jpg": {
+    "src": "/media/eae3eb11dd84823a-original.jpg",
+    "srcSet": "/media/eae3eb11dd84823a-original.jpg 576w",
+    "width": 576,
+    "height": 1024,
+    "source": "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0013.jpg",
+    "capturedWidth": 272,
+    "capturedHeight": 182
+  },
+  "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0012-272x182.jpg": {
+    "src": "/media/5cc75a8594309103-original.jpg",
+    "srcSet": "/media/5cc75a8594309103-640.webp 640w, /media/5cc75a8594309103-original.jpg 1024w",
+    "width": 1024,
+    "height": 864,
+    "source": "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0012.jpg",
+    "capturedWidth": 272,
+    "capturedHeight": 182
+  },
+  "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0011-272x182.jpg": {
+    "src": "/media/f25bf75e723eba48-original.jpg",
+    "srcSet": "/media/f25bf75e723eba48-640.webp 640w, /media/f25bf75e723eba48-original.jpg 1024w",
+    "width": 1024,
+    "height": 768,
+    "source": "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0011.jpg",
+    "capturedWidth": 272,
+    "capturedHeight": 182
+  },
+  "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0014-272x182.jpg": {
+    "src": "/media/0ca29aa6e3d11f84-original.jpg",
+    "srcSet": "/media/0ca29aa6e3d11f84-640.webp 640w, /media/0ca29aa6e3d11f84-original.jpg 1024w",
+    "width": 1024,
+    "height": 768,
+    "source": "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0014.jpg",
+    "capturedWidth": 272,
+    "capturedHeight": 182
+  },
+  "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0015-272x182.jpg": {
+    "src": "/media/17307fe5f56a5bfc-original.jpg",
+    "srcSet": "/media/17307fe5f56a5bfc-640.webp 640w, /media/17307fe5f56a5bfc-original.jpg 1024w",
+    "width": 1024,
+    "height": 768,
+    "source": "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0015.jpg",
+    "capturedWidth": 272,
+    "capturedHeight": 182
+  },
+  "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0018-272x182.jpg": {
+    "src": "/media/7e359851a294a1f5-original.jpg",
+    "srcSet": "/media/7e359851a294a1f5-640.webp 640w, /media/7e359851a294a1f5-original.jpg 1024w",
+    "width": 1024,
+    "height": 768,
+    "source": "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0018.jpg",
+    "capturedWidth": 272,
+    "capturedHeight": 182
+  },
+  "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0016-272x182.jpg": {
+    "src": "/media/47d3c1962a396e15-original.jpg",
+    "srcSet": "/media/47d3c1962a396e15-640.webp 640w, /media/47d3c1962a396e15-original.jpg 1024w",
+    "width": 1024,
+    "height": 768,
+    "source": "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0016.jpg",
+    "capturedWidth": 272,
+    "capturedHeight": 182
+  },
+  "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0017-272x182.jpg": {
+    "src": "/media/21e9f1425c6eeb53-original.jpg",
+    "srcSet": "/media/21e9f1425c6eeb53-640.webp 640w, /media/21e9f1425c6eeb53-original.jpg 1024w",
+    "width": 1024,
+    "height": 768,
+    "source": "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0017.jpg",
+    "capturedWidth": 272,
+    "capturedHeight": 182
+  },
+  "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0020-272x182.jpg": {
+    "src": "/media/ac6d643a3d298d8c-original.jpg",
+    "srcSet": "/media/ac6d643a3d298d8c-640.webp 640w, /media/ac6d643a3d298d8c-original.jpg 1024w",
+    "width": 1024,
+    "height": 460,
+    "source": "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0020.jpg",
+    "capturedWidth": 272,
+    "capturedHeight": 182
+  },
+  "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0019-272x182.jpg": {
+    "src": "/media/d9a1f444545a8938-original.jpg",
+    "srcSet": "/media/d9a1f444545a8938-640.webp 640w, /media/d9a1f444545a8938-original.jpg 1024w",
+    "width": 1024,
+    "height": 768,
+    "source": "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0019.jpg",
+    "capturedWidth": 272,
+    "capturedHeight": 182
+  },
+  "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0022-272x182.jpg": {
+    "src": "/media/7ef7ff76789327d6-original.jpg",
+    "srcSet": "/media/7ef7ff76789327d6-640.webp 640w, /media/7ef7ff76789327d6-original.jpg 1024w",
+    "width": 1024,
+    "height": 683,
+    "source": "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0022.jpg",
+    "capturedWidth": 272,
+    "capturedHeight": 182
+  },
+  "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0023-272x182.jpg": {
+    "src": "/media/474e35c89e4e22a4-original.jpg",
+    "srcSet": "/media/474e35c89e4e22a4-640.webp 640w, /media/474e35c89e4e22a4-original.jpg 1024w",
+    "width": 1024,
+    "height": 768,
+    "source": "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0023.jpg",
+    "capturedWidth": 272,
+    "capturedHeight": 182
+  },
+  "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0021-272x182.jpg": {
+    "src": "/media/5721e73e5a9a0cad-original.jpg",
+    "srcSet": "/media/5721e73e5a9a0cad-640.webp 640w, /media/5721e73e5a9a0cad-original.jpg 969w",
+    "width": 969,
+    "height": 1024,
+    "source": "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0021.jpg",
+    "capturedWidth": 272,
+    "capturedHeight": 182
+  },
+  "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0025-272x182.jpg": {
+    "src": "/media/293a5c2597e3b16a-original.jpg",
+    "srcSet": "/media/293a5c2597e3b16a-640.webp 640w, /media/293a5c2597e3b16a-original.jpg 1024w",
+    "width": 1024,
+    "height": 768,
+    "source": "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0025.jpg",
+    "capturedWidth": 272,
+    "capturedHeight": 182
+  },
+  "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0024-272x182.jpg": {
+    "src": "/media/de33b3a19aae7d54-original.jpg",
+    "srcSet": "/media/de33b3a19aae7d54-640.webp 640w, /media/de33b3a19aae7d54-original.jpg 1024w",
+    "width": 1024,
+    "height": 768,
+    "source": "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0024.jpg",
+    "capturedWidth": 272,
+    "capturedHeight": 182
+  },
+  "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0026-272x182.jpg": {
+    "src": "/media/56fdda304373c7ff-original.jpg",
+    "srcSet": "/media/56fdda304373c7ff-640.webp 640w, /media/56fdda304373c7ff-original.jpg 1024w",
+    "width": 1024,
+    "height": 498,
+    "source": "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0026.jpg",
+    "capturedWidth": 272,
+    "capturedHeight": 182
+  },
+  "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0028-272x182.jpg": {
+    "src": "/media/81c85e81470919e4-original.jpg",
+    "srcSet": "/media/81c85e81470919e4-640.webp 640w, /media/81c85e81470919e4-original.jpg 1024w",
+    "width": 1024,
+    "height": 461,
+    "source": "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0028.jpg",
+    "capturedWidth": 272,
+    "capturedHeight": 182
+  },
+  "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0027-272x182.jpg": {
+    "src": "/media/36157a88e230c88d-original.jpg",
+    "srcSet": "/media/36157a88e230c88d-640.webp 640w, /media/36157a88e230c88d-original.jpg 1024w",
+    "width": 1024,
+    "height": 768,
+    "source": "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0027.jpg",
+    "capturedWidth": 272,
+    "capturedHeight": 182
+  },
+  "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0030-272x182.jpg": {
+    "src": "/media/816caf8c9abffba8-original.jpg",
+    "srcSet": "/media/816caf8c9abffba8-640.webp 640w, /media/816caf8c9abffba8-original.jpg 1024w",
+    "width": 1024,
+    "height": 461,
+    "source": "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0030.jpg",
+    "capturedWidth": 272,
+    "capturedHeight": 182
+  },
+  "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0029-272x182.jpg": {
+    "src": "/media/617cfad0ad3281ad-original.jpg",
+    "srcSet": "/media/617cfad0ad3281ad-640.webp 640w, /media/617cfad0ad3281ad-original.jpg 768w",
+    "width": 768,
+    "height": 1024,
+    "source": "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0029.jpg",
+    "capturedWidth": 272,
+    "capturedHeight": 182
+  },
+  "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0035-272x182.jpg": {
+    "src": "/media/fc0f836594d59394-original.jpg",
+    "srcSet": "/media/fc0f836594d59394-640.webp 640w, /media/fc0f836594d59394-original.jpg 1024w",
+    "width": 1024,
+    "height": 768,
+    "source": "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0035.jpg",
+    "capturedWidth": 272,
+    "capturedHeight": 182
+  },
+  "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0031-272x182.jpg": {
+    "src": "/media/51c149d7bcc91709-original.jpg",
+    "srcSet": "/media/51c149d7bcc91709-640.webp 640w, /media/51c149d7bcc91709-original.jpg 1024w",
+    "width": 1024,
+    "height": 768,
+    "source": "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0031.jpg",
+    "capturedWidth": 272,
+    "capturedHeight": 182
+  },
+  "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0032-272x182.jpg": {
+    "src": "/media/a79a4d0d58cb84ca-original.jpg",
+    "srcSet": "/media/a79a4d0d58cb84ca-640.webp 640w, /media/a79a4d0d58cb84ca-original.jpg 1024w",
+    "width": 1024,
+    "height": 682,
+    "source": "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0032.jpg",
+    "capturedWidth": 272,
+    "capturedHeight": 182
+  },
+  "https://hytalent.in/wp-content/uploads/2021/10/high-impact-l-s-hy.jpeg": {
+    "src": "/media/e44906500bf928cb-original.jpeg",
+    "srcSet": "/media/e44906500bf928cb-original.jpeg 500w",
+    "width": 500,
+    "height": 333,
+    "source": "https://hytalent.in/wp-content/uploads/2021/10/high-impact-l-s-hy.jpeg",
+    "capturedWidth": 500,
+    "capturedHeight": 333
+  },
+  "https://hytalent.in/wp-content/uploads/2021/09/pexels-photo-3184291-3.jpeg": {
+    "src": "/media/4591f82cf426c6ac-original.jpeg",
+    "srcSet": "/media/4591f82cf426c6ac-original.jpeg 500w",
+    "width": 500,
+    "height": 333,
+    "source": "https://hytalent.in/wp-content/uploads/2021/09/pexels-photo-3184291-3.jpeg",
+    "capturedWidth": 500,
+    "capturedHeight": 333
+  },
+  "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0034-272x182.jpg": {
+    "src": "/media/23aa5186c70116ee-original.jpg",
+    "srcSet": "/media/23aa5186c70116ee-640.webp 640w, /media/23aa5186c70116ee-original.jpg 1024w",
+    "width": 1024,
+    "height": 682,
+    "source": "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0034.jpg",
+    "capturedWidth": 272,
+    "capturedHeight": 182
+  },
+  "https://hytalent.in/wp-content/uploads/2021/10/conflict-resolution.jpeg": {
+    "src": "/media/356587e255e9e3b7-original.jpeg",
+    "srcSet": "/media/356587e255e9e3b7-original.jpeg 500w",
+    "width": 500,
+    "height": 333,
+    "source": "https://hytalent.in/wp-content/uploads/2021/10/conflict-resolution.jpeg",
+    "capturedWidth": 500,
+    "capturedHeight": 333
+  },
+  "https://hytalent.in/wp-content/uploads/2022/01/Cdr_JP_Gupta_hytalent.jpg": {
+    "src": "/media/510d832eefc4c08d-original.jpg",
+    "srcSet": "/media/510d832eefc4c08d-original.jpg 321w",
+    "width": 321,
+    "height": 315,
+    "source": "https://hytalent.in/wp-content/uploads/2022/01/Cdr_JP_Gupta_hytalent.jpg",
+    "capturedWidth": 321,
+    "capturedHeight": 315
+  },
+  "https://hytalent.in/wp-content/uploads/2021/09/hytalent-testimonial-1.jpg": {
+    "src": "/media/76de29ec9a6e6450-original.jpg",
+    "srcSet": "/media/76de29ec9a6e6450-original.jpg 254w",
+    "width": 254,
+    "height": 276,
+    "source": "https://hytalent.in/wp-content/uploads/2021/09/hytalent-testimonial-1.jpg",
+    "capturedWidth": 254,
+    "capturedHeight": 276
+  },
+  "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0033-272x182.jpg": {
+    "src": "/media/0b1314dbe8af7d02-original.jpg",
+    "srcSet": "/media/0b1314dbe8af7d02-640.webp 640w, /media/0b1314dbe8af7d02-original.jpg 1024w",
+    "width": 1024,
+    "height": 683,
+    "source": "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0033.jpg",
+    "capturedWidth": 272,
+    "capturedHeight": 182
+  },
+  "https://hytalent.in/wp-content/uploads/2021/12/effective-commn-hy.jpeg": {
+    "src": "/media/7174250b4af98a0c-original.jpeg",
+    "srcSet": "/media/7174250b4af98a0c-original.jpeg 500w",
+    "width": 500,
+    "height": 333,
+    "source": "https://hytalent.in/wp-content/uploads/2021/12/effective-commn-hy.jpeg",
+    "capturedWidth": 500,
+    "capturedHeight": 333
+  },
+  "https://hytalent.in/wp-content/uploads/2021/12/work-life-balance-hy-272x182.jpeg": {
+    "src": "/media/b45d2851a06b915c-original.jpeg",
+    "srcSet": "/media/b45d2851a06b915c-640.webp 640w, /media/b45d2851a06b915c-original.jpeg 1034w",
+    "width": 1034,
+    "height": 580,
+    "source": "https://hytalent.in/wp-content/uploads/2021/12/work-life-balance-hy.jpeg",
+    "capturedWidth": 272,
+    "capturedHeight": 182
+  },
+  "https://hytalent.in/wp-content/uploads/2023/11/HPCL.png": {
+    "src": "/media/2c5b8a64dbdd4b7c-original.png",
+    "srcSet": "/media/2c5b8a64dbdd4b7c-original.png 231w",
+    "width": 231,
+    "height": 219,
+    "source": "https://hytalent.in/wp-content/uploads/2023/11/HPCL.png",
+    "capturedWidth": 231,
+    "capturedHeight": 219
+  },
+  "https://hytalent.in/wp-content/uploads/2023/11/HP.png": {
+    "src": "/media/c9e0f8b4c2be58eb-original.png",
+    "srcSet": "/media/c9e0f8b4c2be58eb-original.png 199w",
+    "width": 199,
+    "height": 253,
+    "source": "https://hytalent.in/wp-content/uploads/2023/11/HP.png",
+    "capturedWidth": 199,
+    "capturedHeight": 253
+  },
+  "https://hytalent.in/wp-content/uploads/2023/11/Vizag_Steel.png": {
+    "src": "/media/7fce6d177f4313d4-original.png",
+    "srcSet": "/media/7fce6d177f4313d4-original.png 192w",
+    "width": 192,
+    "height": 262,
+    "source": "https://hytalent.in/wp-content/uploads/2023/11/Vizag_Steel.png",
+    "capturedWidth": 192,
+    "capturedHeight": 262
+  },
+  "https://hytalent.in/wp-content/uploads/2023/11/fairfield.png": {
+    "src": "/media/79700b9049f1eaec-original.png",
+    "srcSet": "/media/79700b9049f1eaec-original.png 225w",
+    "width": 225,
+    "height": 225,
+    "source": "https://hytalent.in/wp-content/uploads/2023/11/fairfield.png",
+    "capturedWidth": 225,
+    "capturedHeight": 225
+  },
+  "https://hytalent.in/wp-content/uploads/2023/11/symbiosys.png": {
+    "src": "/media/e5f1aba2a9174ce0-original.png",
+    "srcSet": "/media/e5f1aba2a9174ce0-original.png 298w",
+    "width": 298,
+    "height": 169,
+    "source": "https://hytalent.in/wp-content/uploads/2023/11/symbiosys.png",
+    "capturedWidth": 298,
+    "capturedHeight": 169
+  },
+  "https://hytalent.in/wp-content/uploads/2023/11/samata.jpeg": {
+    "src": "/media/55d3dfa5cc92c91e-original.jpeg",
+    "srcSet": "/media/55d3dfa5cc92c91e-original.jpeg 203w",
+    "width": 203,
+    "height": 248,
+    "source": "https://hytalent.in/wp-content/uploads/2023/11/samata.jpeg",
+    "capturedWidth": 203,
+    "capturedHeight": 248
+  },
+  "https://hytalent.in/wp-content/uploads/2023/11/sankarfoundation.png": {
+    "src": "/media/4e2a5d6e71f0341c-original.png",
+    "srcSet": "/media/4e2a5d6e71f0341c-original.png 232w",
+    "width": 232,
+    "height": 217,
+    "source": "https://hytalent.in/wp-content/uploads/2023/11/sankarfoundation.png",
+    "capturedWidth": 232,
+    "capturedHeight": 217
+  },
+  "https://hytalent.in/wp-content/uploads/2023/11/starlite.png": {
+    "src": "/media/b9cddcc3a8f53198-original.png",
+    "srcSet": "/media/b9cddcc3a8f53198-original.png 224w",
+    "width": 224,
+    "height": 225,
+    "source": "https://hytalent.in/wp-content/uploads/2023/11/starlite.png",
+    "capturedWidth": 224,
+    "capturedHeight": 225
+  },
+  "https://hytalent.in/wp-content/uploads/2023/11/Sails-300x127.png": {
+    "src": "/media/9c000cefa55ee413-original.png",
+    "srcSet": "/media/9c000cefa55ee413-original.png 345w",
+    "width": 345,
+    "height": 146,
+    "source": "https://hytalent.in/wp-content/uploads/2023/11/Sails.png",
+    "capturedWidth": 300,
+    "capturedHeight": 127
+  },
+  "https://hytalent.in/wp-content/uploads/2023/11/alwardasgroup-300x162.png": {
+    "src": "/media/6ba8309031e73603-original.png",
+    "srcSet": "/media/6ba8309031e73603-original.png 306w",
+    "width": 306,
+    "height": 165,
+    "source": "https://hytalent.in/wp-content/uploads/2023/11/alwardasgroup.png",
+    "capturedWidth": 300,
+    "capturedHeight": 162
+  },
+  "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0037-272x182.jpg": {
+    "src": "/media/87aca54c4198a1a7-original.jpg",
+    "srcSet": "/media/87aca54c4198a1a7-640.webp 640w, /media/87aca54c4198a1a7-original.jpg 1024w",
+    "width": 1024,
+    "height": 461,
+    "source": "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0037.jpg",
+    "capturedWidth": 272,
+    "capturedHeight": 182
+  },
+  "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0036-272x182.jpg": {
+    "src": "/media/cf2bbc167bc994d6-original.jpg",
+    "srcSet": "/media/cf2bbc167bc994d6-640.webp 640w, /media/cf2bbc167bc994d6-original.jpg 1024w",
+    "width": 1024,
+    "height": 597,
+    "source": "https://hytalent.in/wp-content/uploads/2023/11/IMG-20231029-WA0036.jpg",
+    "capturedWidth": 272,
+    "capturedHeight": 182
+  },
+  "https://hytalent.in/wp-content/uploads/2023/11/padmasriivf-300x300.jpg": {
+    "src": "/media/35b15e17df0b9771-original.jpg",
+    "srcSet": "/media/35b15e17df0b9771-original.jpg 540w",
+    "width": 540,
+    "height": 540,
+    "source": "https://hytalent.in/wp-content/uploads/2023/11/padmasriivf.jpg",
+    "capturedWidth": 300,
+    "capturedHeight": 300
+  }
+}

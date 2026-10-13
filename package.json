@@ -1,0 +1,35 @@
+{
+  "name": "hytalent-recreation",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "predev": "node scripts/prepare-content.mjs",
+    "prebuild": "node scripts/prepare-content.mjs",
+    "dev": "vite --host 127.0.0.1 --port 4174",
+    "build": "vite build && node scripts/build-routes.mjs",
+    "preview": "vite preview --host 127.0.0.1 --port 4174",
+    "start": "node server/index.js",
+    "media": "node scripts/prepare-media.mjs",
+    "test": "node --test server/enquiry.test.js"
+  },
+  "dependencies": {
+    "d3-geo": "^3.1.1",
+    "lucide-react": "^0.468.0",
+    "motion": "^14.1.0",
+    "nodemailer": "^10.1.0",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "react-markdown": "^10.1.0",
+    "remark-gfm": "^4.0.1",
+    "sharp": "^0.35.5",
+    "topojson-client": "^3.1.0",
+    "world-atlas": "^2.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "6.1.1",
+    "imagetracerjs": "^1.2.6",
+    "opentype.js": "^2.0.0",
+    "vite": "8.3.1"
+  }
+}

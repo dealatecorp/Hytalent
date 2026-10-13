@@ -1,0 +1,9 @@
+# Learning hero artwork
+
+Project asset: `public/media/hytalent-learning-workshop-v1.webp` (1536 × 1024, alpha preserved). Generated with the built-in Image Generation tool, inspected visually, then converted to WebP with `scripts/prepare-hero-art.mjs` for the site.
+
+This is conceptual imagery, not a photograph of real HYtalent staff or clients. Original source photographs elsewhere on the site are unchanged. Logos remain SVG-only.
+
+## Final generation prompt
+
+Use case: ads-marketing. Asset type: transparent foreground cutout for a premium corporate learning and development website hero, layered parallax scene. Generate a photorealistic conceptual workshop group: one Indian woman facilitator in her 40s in a tasteful sage-green professional kurta, standing and guiding three adult Indian working professionals, diverse men and women in smart business casual, gathered around a small warm wooden workshop table with notebooks and a few unbranded learning cards. The facilitator is the clear central focal person, warm confident gesture explaining an idea, participants actively engaged. A clean slim easel whiteboard beside her with a simple abstract diagram, no readable text. Group arranged in a compact wide triangular composition, facilitator taller at middle, attendees seated at sides, table and legs fully included. Front three-quarter editorial camera, natural realistic faces/hands, soft directional warm daylight, subtle high-end cinematic polish, not stock-photo posing. Entire group and workshop props isolated on genuinely transparent background with alpha. No room walls, no background landscape, no mountains, no lone laptop guy, no logos, no written slogans or text, no watermarks. Preserve clear silhouette and generous transparent margins, no cropped heads or feet. This is an illustrative conceptual training scene, not a depiction of real HYtalent staff.
